@@ -1,1 +1,2 @@
-# Learnings
+# Learnings 
+this is a first repository
