@@ -1,2 +1,2 @@
 # Learnings 
-this is a first repository
+this is a first repository add
